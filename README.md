@@ -1,4 +1,4 @@
-comandos utiles de git
+# Comandos utiles de git
 
 1-git init
 2- git add .(prepara la foto en el stage)
