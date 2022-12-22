@@ -7,5 +7,5 @@ comandos utiles de git
 5- git checkout -- .(reconstruye)
 6- git log    (info )
 7- git commit --amend(modifica el commit)
-8- git chekout -b rama-nueva
-q
+8- git chekout -b rama-nueva (crea una nueva rama)
+q- git checkout master
